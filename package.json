@@ -1,0 +1,17 @@
+{
+  "name": "gbk-to-unicode-decoder",
+  "version": "0.1.0",
+  "description": "Converts GBK/GB2312 encoded bytes to JavaScript strings using pure JS implementation",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
